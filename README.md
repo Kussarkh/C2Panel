@@ -3,9 +3,10 @@
 - Free Botnet Panel
 - My discord: fx1l9
 
-![image](https://github.com/L1VEWITHOUTWIN/LeanC2/assets/167032903/270918d8-3f24-44c7-a56f-58370397c1c4)
-![image](https://github.com/L1VEWITHOUTWIN/LeanC2/assets/167032903/6f064686-fa4c-4bdc-b73d-f1e0e6fc2895)
-![image](https://github.com/L1VEWITHOUTWIN/LeanC2/assets/167032903/e1eafdce-ee01-467a-a759-917f790b6c90)
+![image](https://github.com/Kussarkh/C2Panel/assets/169584904/03ea9a4b-1aaf-47c5-a4b5-754c56e9e693)
 
+![image](https://github.com/Kussarkh/C2Panel/assets/169584904/aec3e0af-e752-49e2-befc-7d2d2e989433)
+
+![image](https://github.com/Kussarkh/C2Panel/assets/169584904/dce3b586-d6b6-4f7d-9a86-6dec40242ca2)
 
 - Use this for EDUCATIONAL PURPOSES ONLY!
